@@ -110,6 +110,12 @@ Based on `gasUsed / gasLimit`.
 
 ---
 
+## 📦 GitHub Repository
+
+You can find the full source code, issues, discussions, and documentation here:
+
+👉 **https://github.com/devforgetech/use-chain-status**
+
 ## 🪪 License
 
 MIT
