@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <strong>Tiny (<5 KB) real-time EVM chain health & gas status</strong><br/>
+  <strong>Tiny real-time EVM chain health & gas status</strong><br/>
   Zero dependencies · React hook + core utility · Multi-chain
 </p>
 
