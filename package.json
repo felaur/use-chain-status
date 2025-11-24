@@ -1,15 +1,15 @@
 {
   "name": "use-chain-status",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "Tiny (<5KB) real-time chain health & gas status hook and utility for EVM networks.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/devforgetech/use-chain-status.git"
+    "url": "https://github.com/orvexis/use-chain-status.git"
   },
   "bugs": {
-    "url": "https://github.com/devforgetech/use-chain-status/issues"
+    "url": "https://github.com/orvexis/use-chain-status/issues"
   },
-  "homepage": "https://github.com/devforgetech/use-chain-status#readme",
+  "homepage": "https://github.com/orvexis/use-chain-status#readme",
   "type": "module",
   "main": "dist/index.js",
   "module": "dist/index.js",

@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/npm/v/use-chain-status.svg" />
   <img src="https://img.shields.io/bundlephobia/minzip/use-chain-status" />
   <img src="https://img.shields.io/npm/types/use-chain-status" />
-  <img src="https://img.shields.io/github/license/devforgetech/use-chain-status" />
+  <img src="https://img.shields.io/github/license/orvexis/use-chain-status" />
 </p>
 
 `use-chain-status` provides a tiny, zero-dependency utility + React
@@ -114,7 +114,7 @@ Based on `gasUsed / gasLimit`.
 
 You can find the full source code, issues, discussions, and documentation here:
 
-👉 **https://github.com/devforgetech/use-chain-status**
+👉 **https://github.com/orvexis/use-chain-status**
 
 ## 🪪 License
 
